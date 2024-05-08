@@ -1,4 +1,4 @@
--> # Optimizing-Traffic-Signal-Control-with-Reinforcement-Learning-for-Road-Traffic-Management-with-DQN-
+# Optimizing-Traffic-Signal-Control-with-Reinforcement-Learning-for-Road-Traffic-Management-with-DQN-
 
 🚗 This repository contains an implementation of a Deep Q-Network (DQN) agent for optimizing traffic signal control in urban environments. This project explores the utilization of Reinforcement Learning (RL) techniques, specifically the Deep Q-Network (DQN) algorithm, to optimize Traffic Signal Control (TSC) in the domain of Road Traffic Management (RTM). By leveraging RL's ability to adapt to varying traffic conditions and the power of DQN in approximating optimal action-value functions, we aim to alleviate traffic congestion and improve traffic flow efficiency.
 
